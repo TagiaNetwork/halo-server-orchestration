@@ -1,0 +1,3 @@
+[submodule "haloserverquery"]
+	path = haloserverquery
+	url = git@github.com:TagiaNetwork/halo-server-query-py.git
